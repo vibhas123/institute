@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar .logo h1 {
+    margin: 0;
+  }
+  
+  .navbar .nav-links {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .navbar .nav-links li {
+    margin-left: 20px;
+  }
+  
+  .navbar .nav-links li a {
+    color: white;
+    text-decoration: none;
+  }
+  

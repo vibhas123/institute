@@ -1,0 +1,20 @@
+.courses {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .courses h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .courses ul {
+    list-style-type: none;
+  }
+  
+  .courses ul li {
+    font-size: 1.2rem;
+    color: #555;
+    padding: 5px 0;
+  }
+  
